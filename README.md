@@ -11,10 +11,12 @@ Currently focused on interview prep and production-style projects.
  
 ## Tech Stack
  
-**Languages:** Java, Python, JavaScript, TypeScript  
-**Frontend:** React, Next.js  
+**Languages:** Java, Python, TypeScript, JavaScript,
+**Frontend:** React, Next.js, HTML, CSS, TailWind CSS, Chrome Extension APIs
 **Backend:** Node.js, Express  
-**Databases:** PostgreSQL, Supabase  
+**Databases:** PostgreSQL, Supabase, DynamoDB
+**Cloud & Infrastructure:** AWS (Lambda, DynamoDB, S3), Vercel
+**AI & Developer Tools:** OpenAI API, Anthropic API, Git, GitHub
  
 ---
 ## Problem Solving
