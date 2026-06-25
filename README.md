@@ -25,8 +25,7 @@ Aiming for top 100k and LeetCode Knight Badge!
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jaurice)
 
 Currently reading:
-* The Complete Coding Interview Guide in Java
-* System Design Interview An Insider’s Guide
+* Designing Data-Intensive Applications, 2nd Edition
 
 ## Connect
  
