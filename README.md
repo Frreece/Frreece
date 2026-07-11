@@ -20,7 +20,7 @@ Currently focused on interview prep and production-style projects.
  
 ---
 ## Problem Solving
-Recently achieved the LeetCode Knight Badge, still aiming for top 100k!
+Recently achieved the LeetCode Knight Badge, which means top 5% on the platform! Currently aiming for top 100k.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jaurice)
 
